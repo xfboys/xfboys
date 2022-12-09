@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @muktadir
+- 👋 Hi, I’m mukt@dir
 - 👀 I’m interested in ASP.Net MVC, ASP.NetCore, React, Redux, React-Native.
 - 🌱 I’m currently learning React-Native.
 - 💞️ I’m looking to collaborate on ...
